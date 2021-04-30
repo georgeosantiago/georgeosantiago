@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello 👋
+
+My name is Jorge, I'm from Argentina
 
 <!--
 **georgeosantiago/georgeosantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
